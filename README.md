@@ -18,7 +18,10 @@ On the "My Workouts" page.
 
 ### Filtering Workouts 
 Visit the "My Workouts" page.
+
 Use the search bar to filter by name.
+
+Use the selection bar to filter by type of workout.
 
 HOME PAGE
 ![image](https://github.com/Navam-sharma/Myassets/blob/main/Capture1.JPG)
