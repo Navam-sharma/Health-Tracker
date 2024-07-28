@@ -1,7 +1,4 @@
 Health Challenge Tracker
-
-Health Challenge Tracker is a web application for tracking and exploring workout activities. Users can add, filter, and view detailed workout progress.
-
 ## Features
 
 - **Add Workout:** Add workout details including username, workout minutes and type.
@@ -12,32 +9,25 @@ Health Challenge Tracker is a web application for tracking and exploring workout
 ## Usage
 
 ### Adding a Workout 
+Go to the "Add Workout" page.
+Enter workout details: username, workout minutes, and type.
+Submit to add the workout.
 
-1. Go to the "Add Workout" page.
-2. Enter workout details: username, workout minutes, and type.
-3. Submit to add the workout.
+### Viewing User Workouts 
+On the "My Workouts" page.
 
 ### Filtering Workouts 
-
-1. Visit the "Explore" page.
-2. Use the search bar to filter by name.
-3. Use the dropdown to filter by type of workout.
-
-### Viewing User Progress 
-
-1. On the "Explore" page, click a user's name.
-
-2. View detailed workout progress for the selected user.
+Visit the "My Workouts" page.
+Use the search bar to filter by name.
 
 HOME PAGE
 ![image](https://github.com/Navam-sharma/Myassets/blob/main/Capture1.JPG)
 
-EXPLORE PAGE
-![image](https://github.com/user-attachments/assets/55ae4b2a-9d77-42ee-a136-1b0b1b985a3e)
-
 ADD WORKOUT
-![image](https://github.com/user-attachments/assets/baac55ec-c61f-4569-abf6-e884c81db12c)
+![image](https://github.com/Navam-sharma/Myassets/blob/main/Capture2.JPG)
 
+All Workouts
+![image](https://github.com/Navam-sharma/Myassets/blob/main/Capture3.JPG)
 
 
 
@@ -47,8 +37,8 @@ ADD WORKOUT
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/HarleenKour11/Health_Challenge_Tracker_Angular
-   cd Health_Challenge_Tracker_Angular
+   git clone https://github.com/Navam-sharma/Health-Tracker
+   cd Health-Tracker
    ```
 
 2. Install dependencies
